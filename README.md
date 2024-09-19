@@ -1,4 +1,3 @@
-# Corrigindo-Bugs-01
 <h1 align="center"> Curso Explorer FullStack - Rocketseat </h1>
 
 <p align="center">
